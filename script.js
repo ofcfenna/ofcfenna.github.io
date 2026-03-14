@@ -262,7 +262,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const bioMessages = [
     "owner .gg/odessaazion, also a big juice wrld fan",
     "this website is insanely broken on mobile (no i wont be fixing it)",
-    "\"hello!!!\"",
+    "\"damn\"",
     "real ass mf",
     "\"song playing; Lean Wit' Me (Studio Session) - Juice WRLD\""
   ];
