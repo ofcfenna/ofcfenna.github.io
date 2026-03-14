@@ -225,7 +225,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
 
-  const name = "999";
+  const name = "fenna";
   let nameText = '';
   let nameIndex = 0;
   let isNameDeleting = false;
